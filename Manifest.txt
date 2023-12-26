@@ -1,0 +1,2 @@
+Main-Class: algopars.AlgoPars
+Class-Path: lib/bsh-2.0b4.jar lib/jansi-1.17.1.jar
